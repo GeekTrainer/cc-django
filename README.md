@@ -18,8 +18,15 @@
    ```
 
 3. Rename *dotenv* to *.env*
-4. Start the project
+4. Migrate the database
 
    ```bash
+   python manage.py migrate
+   ```
+
+5. Start the project
+
+   ```bash
+
    python manage.py runserver
    ```
