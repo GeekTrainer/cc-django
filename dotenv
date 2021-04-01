@@ -1,0 +1,8 @@
+# Running locally!!
+
+# Server settings
+DEBUG=True
+SECRET_KEY="(#)mqa$0q5#gi(_x@)*)p@u%zqy0&t@kxsh50ffjp3+^dcz=mw"
+ALLOWED_HOST=127.0.0.1
+
+# Database configuration
