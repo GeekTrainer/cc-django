@@ -27,6 +27,5 @@
 5. Start the project
 
    ```bash
-
    python manage.py runserver
    ```
